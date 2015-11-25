@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSC350-HW5-Billiards", "CSC350-HW5-Billiards\CSC350-HW5-Billiards.vcxproj", "{AFE21D49-F77B-49E6-8716-381272A24156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE21D49-F77B-49E6-8716-381272A24156}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AFE21D49-F77B-49E6-8716-381272A24156}.Debug|Win32.Build.0 = Debug|Win32
+		{AFE21D49-F77B-49E6-8716-381272A24156}.Release|Win32.ActiveCfg = Release|Win32
+		{AFE21D49-F77B-49E6-8716-381272A24156}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
