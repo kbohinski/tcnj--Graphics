@@ -10,5 +10,3 @@ Check some out below!
 ![Faces](/HW6-faces/screenshot.png)
 
 ![Street](/HW7-Street/screenshot.PNG)
-
-![Billiards](/HW5-Billiards/screenshot.PNG)
