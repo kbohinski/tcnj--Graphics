@@ -6,3 +6,9 @@ Check some out below!
 ![Paint](/HW3-Paint/bohinsk1--CSC350-HW3-Exercises/CSC350-HW3-Paint/screenshot.PNG)
 
 ![Billiards](/HW5-Billiards/screenshot.PNG)
+
+![Faces](/HW6-faces/screenshot.png)
+
+![Street](/HW7-Street/screenshot.PNG)
+
+![Billiards](/HW5-Billiards/screenshot.PNG)
