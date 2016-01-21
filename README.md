@@ -7,6 +7,6 @@ Check some out below!
 
 ![Billiards](/HW5-Billiards/screenshot.PNG)
 
-![Faces](/HW6-faces/screenshot.png)
+![Faces](HW6-Faces/screenshot.png)
 
 ![Street](/HW7-Street/screenshot.PNG)
